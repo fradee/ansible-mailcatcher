@@ -3,7 +3,7 @@ dependencies: []
 
 galaxy_info:
   author: "Alexander Fradynskyi"
-  company: gochos
+  company: GoodAhead
   license: BSD
   min_ansible_version: 2.0
   issue_tracker_uri: https://github.com/fradee/ansible-mailcatcher/issues
@@ -15,4 +15,4 @@ galaxy_info:
   galaxy_tags:
     - mailcatcher
     - smtp
-    - local sandmail
+    - sendmail
